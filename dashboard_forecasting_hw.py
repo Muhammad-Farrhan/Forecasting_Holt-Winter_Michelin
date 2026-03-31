@@ -13,7 +13,7 @@ st.set_page_config(
 st.title("Decision Support System - Holt–Winters Forecasting & Inventory Optimization")
 
 st.markdown("""
-Dashboard ini mendukung **upload file Excel** dan melakukan:
+Dashboard ini mendukung :
 - Forecasting permintaan menggunakan **Holt–Winters**
 - Perhitungan **Safety Stock, Reorder Point, dan EOQ**
 - Analisis pendukung keputusan persediaan bahan baku
